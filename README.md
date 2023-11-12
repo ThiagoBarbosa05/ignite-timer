@@ -19,3 +19,9 @@ The following tools were used to build the project:
 - [Phosphor-react](https://phosphoricons.com/)
 - [Eslint](https://eslint.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [immer](https://github.com/immerjs/immer)
+- [React Hook Form](https://react-hook-form.com)
+- [React Router Dom](https://reactrouter.com/en/main)
+- [Styled Components](https://styled-components.com/)
+- [Zod](https://zod.dev/)
+  
